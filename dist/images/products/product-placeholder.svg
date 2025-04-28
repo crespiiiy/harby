@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="300px" viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Product Placeholder</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1E1E1E" x="0" y="0" width="400" height="300"></rect>
+        <g transform="translate(100, 100)" fill="#00FF00">
+            <path d="M0,0 L200,0 L200,100 L0,100 L0,0 Z" fill-opacity="0.2"></path>
+            <path d="M20,20 L180,20 L180,80 L20,80 L20,20 Z" fill-opacity="0.3"></path>
+            <path d="M40,40 L160,40 L160,60 L40,60 L40,40 Z" fill-opacity="0.5"></path>
+            <text font-family="'Courier New', monospace" font-size="14" x="50" y="53">
+                HACKING TOOL
+            </text>
+        </g>
+    </g>
+</svg>

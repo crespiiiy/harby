@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="300px" viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Instagram Phishing Tool</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1E1E1E" x="0" y="0" width="400" height="300"></rect>
+        <g transform="translate(100, 100)">
+            <linearGradient id="instagramGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#405DE6" />
+                <stop offset="20%" stop-color="#5851DB" />
+                <stop offset="40%" stop-color="#833AB4" />
+                <stop offset="60%" stop-color="#C13584" />
+                <stop offset="80%" stop-color="#E1306C" />
+                <stop offset="100%" stop-color="#FD1D1D" />
+            </linearGradient>
+            <path d="M0,0 L200,0 L200,100 L0,100 L0,0 Z" fill="url(#instagramGradient)" fill-opacity="0.2"></path>
+            <path d="M20,20 L180,20 L180,80 L20,80 L20,20 Z" fill="url(#instagramGradient)" fill-opacity="0.3"></path>
+            <path d="M40,40 L160,40 L160,60 L40,60 L40,40 Z" fill="url(#instagramGradient)" fill-opacity="0.5"></path>
+            <text font-family="'Courier New', monospace" font-size="14" x="35" y="53" fill="#ffffff">
+                INSTAGRAM PHISHING
+            </text>
+        </g>
+    </g>
+</svg>

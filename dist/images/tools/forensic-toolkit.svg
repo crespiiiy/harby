@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="300px" viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Forensic Toolkit</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1E1E1E" x="0" y="0" width="400" height="300"></rect>
+        <g transform="translate(50, 50)">
+            <!-- Magnifying Glass -->
+            <circle cx="120" cy="100" r="60" stroke="#FFCC00" stroke-width="8" fill="#1E1E1E"></circle>
+            <line x1="165" y1="145" x2="220" y2="200" stroke="#FFCC00" stroke-width="10" stroke-linecap="round"></line>
+            
+            <!-- Digital Evidence -->
+            <rect x="80" y="80" width="80" height="40" rx="5" fill="#FFCC00" fill-opacity="0.2"></rect>
+            <line x1="90" y1="90" x2="150" y2="90" stroke="#FFCC00" stroke-width="2"></line>
+            <line x1="90" y1="100" x2="140" y2="100" stroke="#FFCC00" stroke-width="2"></line>
+            <line x1="90" y1="110" x2="130" y2="110" stroke="#FFCC00" stroke-width="2"></line>
+            
+            <!-- Binary Data -->
+            <text font-family="'Courier New', monospace" font-size="10" fill="#FFCC00" fill-opacity="0.3" x="10" y="20">
+                01000110 01001111 01010010 01000101 01001110 01010011
+            </text>
+            <text font-family="'Courier New', monospace" font-size="10" fill="#FFCC00" fill-opacity="0.3" x="10" y="40">
+                01001001 01000011 00100000 01010100 01001111 01001111
+            </text>
+            <text font-family="'Courier New', monospace" font-size="10" fill="#FFCC00" fill-opacity="0.3" x="10" y="180">
+                01001100 01001011 01001001 01010100 00100000 01000100
+            </text>
+            <text font-family="'Courier New', monospace" font-size="10" fill="#FFCC00" fill-opacity="0.3" x="10" y="200">
+                01000001 01010100 01000001 00100000 01010010 01000101
+            </text>
+            
+            <!-- Product Name -->
+            <text font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#FFCC00" x="60" y="200">
+                FORENSIC TOOLKIT
+            </text>
+        </g>
+    </g>
+</svg>
