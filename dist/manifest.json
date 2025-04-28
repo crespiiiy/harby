@@ -1,0 +1,21 @@
+{
+  "name": "Hacker World",
+  "short_name": "HackerWorld",
+  "description": "The ultimate platform for ethical hackers and security professionals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00FF00",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/images/logos/logo.svg",
+      "sizes": "200x60",
+      "type": "image/svg+xml"
+    }
+  ]
+}

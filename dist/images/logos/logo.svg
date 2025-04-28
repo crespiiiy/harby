@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="60px" viewBox="0 0 200 60" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Hacker World Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#121212" x="0" y="0" width="200" height="60" rx="8"></rect>
+        <g transform="translate(10, 10)" fill="#00FF00">
+            <path d="M10,0 L20,0 L20,40 L10,40 L10,0 Z M40,0 L50,0 L50,40 L40,40 L40,0 Z M25,0 L35,0 L35,15 L25,15 L25,0 Z M25,25 L35,25 L35,40 L25,40 L25,25 Z" />
+            <text font-family="'Courier New', monospace" font-size="18" font-weight="bold" x="60" y="25">
+                HACKER
+            </text>
+            <text font-family="'Courier New', monospace" font-size="14" x="60" y="38">
+                WORLD
+            </text>
+        </g>
+    </g>
+</svg>

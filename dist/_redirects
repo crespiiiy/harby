@@ -1,0 +1,8 @@
+# Netlify redirects file
+# This ensures that all routes are handled by the SPA router
+
+# Redirect all paths to index.html
+/*    /index.html   200
+
+# Redirect old paths to new paths if needed
+# /old-path    /new-path    301

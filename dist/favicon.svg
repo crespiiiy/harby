@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hacker World Logo</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient">
+            <stop stop-color="#00ff00" offset="0%"></stop>
+            <stop stop-color="#00cc00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#121212" x="0" y="0" width="32" height="32" rx="4"></rect>
+        <path d="M16,4 C22.6274,4 28,9.37258 28,16 C28,22.6274 22.6274,28 16,28 C9.37258,28 4,22.6274 4,16 C4,9.37258 9.37258,4 16,4 Z M16,6 C10.4772,6 6,10.4772 6,16 C6,21.5228 10.4772,26 16,26 C21.5228,26 26,21.5228 26,16 C26,10.4772 21.5228,6 16,6 Z" fill="url(#linearGradient)" fill-rule="nonzero"></path>
+        <path d="M11,12 L11,20 L13,20 L13,17 L15,17 L15,20 L17,20 L17,12 L15,12 L15,15 L13,15 L13,12 L11,12 Z M19,12 L19,20 L21,20 L21,12 L19,12 Z" fill="#00ff00" fill-rule="nonzero"></path>
+    </g>
+</svg>
