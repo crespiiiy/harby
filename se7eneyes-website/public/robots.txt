@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://se7eneyes.netlify.app/sitemap.xml
